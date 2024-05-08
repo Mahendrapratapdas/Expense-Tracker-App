@@ -1,3 +1,3 @@
-![Screen SHot](/src/images/home.png)
-![Screen SHot](/src/images/salary.png)
-![Screen SHot](/src/images/exp.png)
+![Screen SHot](/App/src/images/home.png)
+![Screen SHot](/App/src/images/salary.png)
+![Screen SHot](/App/src/images/exp.png)
